@@ -1,6 +1,4 @@
-# Template Example *(Ex)*
+# Text File Word Counter in Java
 
-# Example Heading
-
-Here is the example ReadME text.
+This program takes a file and returns a word count with the most common words listed first.
 
