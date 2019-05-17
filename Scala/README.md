@@ -1,3 +1,3 @@
-Steps to use Template:
-1. Import form repo this repo, and then change the build.sbt
-name := "ScalaTemplate" to name:= "Newprojectname"
+# Text File Word Counter in Scala
+
+This program takes a file and returns a word count with the most common words listed first.
